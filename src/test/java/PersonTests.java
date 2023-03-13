@@ -16,4 +16,10 @@ public class PersonTests
             () -> assertNull(testMe.getTitle())
         );
     }
+
+    @Test
+    public void failTest()
+    {
+        fail();
+    }
 }
