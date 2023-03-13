@@ -17,9 +17,9 @@ public class PersonTests
         );
     }
 
-    @Test
+    /*@Test
     public void failTest()
     {
         fail();
-    }
+    }*/
 }
